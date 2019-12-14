@@ -5,7 +5,8 @@ public class Git {
 	public static void main(String[] args) {
 		System.out.println("HelloGit");
 		System.out.println("lisi");
-		System.out.println("·¨º£Äã²»¶®°®,À×·åËþ»áµôÏÂÀ´£¡");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ã²»ï¿½ï¿½ï¿½ï¿½,ï¿½×·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
+		System.out.println("ä½ å¥½å¸…");
 	}
 	
 
